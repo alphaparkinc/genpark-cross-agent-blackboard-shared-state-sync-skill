@@ -1,0 +1,16 @@
+{
+  "name": "genpark-cross-agent-blackboard-shared-state-sync-skill",
+  "version": "1.0.0",
+  "description": "Blackboard architecture shared state store, atomic key-value transactions, and pub-sub topic event broadcast.",
+  "author": "GenPark AI",
+  "license": "MIT",
+  "keywords": [
+    "blackboard",
+    "shared-state",
+    "pub-sub",
+    "multi-agent",
+    "synchronization",
+    "genpark",
+    "mcp"
+  ]
+}
